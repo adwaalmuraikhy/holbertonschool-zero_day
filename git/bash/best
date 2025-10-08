@@ -1,2 +1,2 @@
-#!/bin/bash
-This School is so cool!
+#!/usr/bin/env bash
+echo "This School is so cool!"
